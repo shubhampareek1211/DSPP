@@ -1,0 +1,15 @@
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+*.xls binary
+*.xlsx binary
+*.numbers binary
+*.parquet binary
+*.dta binary
+*.sav binary
+*.shp binary
+*.shx binary
+*.dbf binary
