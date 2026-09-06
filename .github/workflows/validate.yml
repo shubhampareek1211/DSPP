@@ -1,0 +1,39 @@
+name: Validate research repository
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install Python dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Compile active Python scripts
+        run: python -m py_compile scripts/01_build/*.py scripts/02_analysis/*.py scripts/03_figures/*.py scripts/04_release/*.py
+
+      - name: Regenerate final figures
+        run: |
+          python scripts/03_figures/make_paper_figures_v3.py
+          python scripts/03_figures/make_figure3_1_pmmvy_intensity.py
+
+      - name: Verify tracked outputs are current
+        run: |
+          git diff --exit-code -- results/figures/paper
+          test -s output/pdf/cash_transfers_banking_womens_financial_empowerment_india.pdf
+
+      - name: Check optional PhonePe builder interface
+        run: python scripts/01_build/build_phonepe_pulse_panel.py --help

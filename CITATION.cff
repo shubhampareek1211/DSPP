@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Cash Transfers, Banking Infrastructure, and Women's Financial Empowerment in India"
+type: software
+authors:
+  - family-names: "Pareek"
+    given-names: "Shubham"
+year-released: 2026
+license: MIT

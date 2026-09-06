@@ -1,0 +1,4 @@
+state,scheme,metric,value,value_unit,announcement_date,source_url,note
+Jharkhand,Mukhyamantri Maiya Samman Yojana,beneficiaries_paid,5661791,persons,2025-01-06,https://cm.jharkhand.gov.in/sites/default/files/press-release/2025-01/Press_Release-1-06-01-2025%28Hindi%29.pdf,"Official CM press release states 56,61,791 beneficiaries received DBT."
+Jharkhand,Mukhyamantri Maiya Samman Yojana,dbt_amount_transferred,14154477000,INR,2025-01-06,https://cm.jharkhand.gov.in/sites/default/files/press-release/2025-01/Press_Release-1-06-01-2025%28Hindi%29.pdf,Official CM press release states INR 1415 crore 44 lakh 77 thousand transferred by DBT.
+Jharkhand,Mukhyamantri Maiya Samman Yojana,monthly_benefit_amount,2500,INR_per_month,2025-01-06,https://cm.jharkhand.gov.in/sites/default/files/press-release/2025-01/Press_Release-1-06-01-2025%28Hindi%29.pdf,Official CM press release states monthly amount increased to INR 2500.

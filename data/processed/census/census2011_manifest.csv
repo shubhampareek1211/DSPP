@@ -1,0 +1,4 @@
+dataset,rows,columns,description
+census2011_district_population,640,13,Census 2011 district-level total population and households extracted from the Primary Census Abstract.
+rbi_census_district_match_check,656,7,RBI December 2013 district baseline matched to Census 2011 district population using normalized state and district names.
+rbi_census_district_unmatched,100,7,RBI districts still unmatched to Census 2011 after normalized exact matching.

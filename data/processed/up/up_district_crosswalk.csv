@@ -1,0 +1,82 @@
+nfhs_district_code,nfhs_district_name_guess,nfhs4_rows,nfhs5_rows,district_name_norm,pmmvy_district_name,mksy_district_name
+132,saharanpur,2487,1318,saharanpur,Saharanpur,Saharanpur
+133,muzaffarnagar,1251,0,muzaffarnagar,Muzaffarnagar,Muzaffarnagar
+134,bijnor,1265,1348,bijnor,Bijnor,Bijnor
+135,moradabad,2487,0,moradabad,Moradabad,Moradabad
+136,rampur,1312,1092,rampur,Rampur,Rampur
+137,amroha,1271,1411,amroha,Amroha,Amroha
+138,meerut,3334,1212,meerut,Meerut,Meerut
+139,baghpat,1239,1304,baghpat,Baghpat,Baghpat
+140,ghaziabad,2281,0,ghaziabad,Ghaziabad,Ghaziabad
+141,gautam buddha nagar,2194,863,gautam buddha nagar,Gautam Buddha Nagar,Gautam Buddha Nagar
+142,bulandshahr,1259,1105,bulandshahr,Bulandshahr,Bulandshahr
+143,aligarh,2477,1073,aligarh,Aligarh,Aligarh
+144,hathras,1135,1234,hathras,Hathras,Mahamaya Nagar (Hathras)
+145,mathura,1220,1175,mathura,Mathura,Mathura
+146,agra,2448,1226,agra,Agra,Agra
+147,firozabad,2506,1178,firozabad,Firozabad,Firozabad
+148,mainpuri,1137,1258,mainpuri,Mainpuri,Mainpuri
+149,etah,1113,0,etah,Etah,Etah
+150,kasganj,2506,1088,kasganj,Kasganj,Kasganj
+151,farrukhabad,1152,1040,farrukhabad,Farrukhabad,Farrukhabad
+152,kannauj,1064,1286,kannauj,Kannauj,Kannauj
+153,etawah,1046,1280,etawah,Etawah,Etawah
+154,auraiya,985,1212,auraiya,Auraiya,Auraiya
+155,kanpur dehat,1000,1206,kanpur dehat,Kanpur Dehat,Kanpur Dehat
+156,kanpur nagar,1097,1128,kanpur nagar,Kanpur Nagar,Kanpur Nagar
+157,jalaun,1862,958,jalaun,Jalaun,Jalaun
+158,hamirpur,1123,0,hamirpur,Hamirpur,Hamirpur
+159,mahoba,1159,1276,mahoba,Mahoba,Mahoba
+160,banda,1134,1317,banda,Banda,Banda
+161,chitrakoot,1145,1225,chitrakoot,Chitrakoot,Chitrakoot
+162,fatehpur,971,1309,fatehpur,Fatehpur,Fatehpur
+163,prayagraj,965,1213,prayagraj,Allahabad,Prayagraj
+164,kaushambi,1901,1150,kaushambi,Kaushambi,Kaushambi
+165,pratapgarh,894,1373,pratapgarh,Pratapgarh,Pratapgarh
+166,lucknow,1955,1326,lucknow,Lucknow,Lucknow
+167,unnao,900,1484,unnao,Unnao,Unnao
+168,rae bareli,871,1389,rae bareli,Rae Bareli,Rae Bareli
+169,sitapur,908,1347,sitapur,Sitapur,Sitapur
+170,hardoi,789,1189,hardoi,Hardoi,Hardoi
+171,kheri,1089,1176,kheri,Kheri,Kheri
+172,barabanki,923,1206,barabanki,Barabanki,Barabanki
+173,ayodhya,1216,1267,ayodhya,Faizabad,Ayodhya
+174,ambedkar nagar,1026,1100,ambedkar nagar,Ambedkar Nagar,Ambedkar Nagar
+175,sultanpur,1162,1124,sultanpur,Sultanpur,Sultanpur
+176,bahraich,987,1186,bahraich,Bahraich,Bahraich
+177,shravasti,1202,1213,shravasti,Shravasti,Shravasti
+178,balrampur,1407,1259,balrampur,Balrampur,Balrampur
+179,gonda,1151,0,gonda,Gonda,Gonda
+180,siddharth nagar,1021,1128,siddharth nagar,Siddharth Nagar,Siddharth Nagar
+181,basti,1055,1233,basti,Basti,Basti
+182,sant kabeer nagar,1260,1235,sant kabeer nagar,Sant Kabeer Nagar,Sant Kabeer Nagar
+183,gorakhpur,1216,1292,gorakhpur,Gorakhpur,Gorakhpur
+184,maharajganj,1236,1396,maharajganj,Maharajganj,Maharajganj
+185,kushi nagar,1243,1362,kushi nagar,Kushi Nagar,Kushi Nagar
+186,deoria,1349,1266,deoria,Deoria,Deoria
+187,azamgarh,1346,1316,azamgarh,Azamgarh,Azamgarh
+188,mau,1212,1360,mau,Mau,Mau
+189,ballia,1360,1312,ballia,Ballia,Ballia
+190,jaunpur,1289,1317,jaunpur,Jaunpur,Jaunpur
+191,ghazipur,1303,1354,ghazipur,Ghazipur,Ghazipur
+192,chandauli,1359,1310,chandauli,Chandauli,Chandauli
+193,varanasi,1329,1254,varanasi,Varanasi,Varanasi
+194,bhadohi,1318,1561,bhadohi,Bhadohi,Bhadohi
+195,mirzapur,1223,1363,mirzapur,Mirzapur,Mirzapur
+196,sonbhadra,1328,1272,sonbhadra,Sonbhadra,Sonbhadra
+197,prayagraj,2442,1403,prayagraj,Allahabad,Prayagraj
+198,shahjahanpur,1317,1352,shahjahanpur,Shahjahanpur,Shahjahanpur
+199,pilibhit,1113,1176,pilibhit,Pilibhit,Pilibhit
+200,bareilly,1027,1158,bareilly,Bareilly,Bareilly
+201,budaun,1163,1267,budaun,Budaun,Budaun
+202,sambhal,1146,1143,sambhal,Sambhal,Sambhal
+921,amethi,0,1255,amethi,Amethi,Amethi
+922,hapur,0,1134,hapur,Hapur,Hapur
+923,shamli,0,805,shamli,Shamli,Shamli
+924,sambhal,0,1357,sambhal,Sambhal,Sambhal
+925,kasganj,0,1264,kasganj,Kasganj,Kasganj
+926,amroha,0,1201,amroha,Amroha,Amroha
+927,amethi,0,1258,amethi,Amethi,Amethi
+928,hapur,0,1314,hapur,Hapur,Hapur
+929,shamli,0,1300,shamli,Shamli,Shamli
+930,ambedkar nagar,0,1282,ambedkar nagar,Ambedkar Nagar,Ambedkar Nagar

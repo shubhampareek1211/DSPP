@@ -1,0 +1,7 @@
+file_name,relative_path,rows,columns,description
+nfhs4_individual_raw_selected.parquet,processed/nfhs/nfhs4_individual_raw_selected.parquet,699686,42,Selected raw individual variables extracted from NFHS-4 for this project.
+nfhs4_household_raw_selected.parquet,processed/nfhs/nfhs4_household_raw_selected.parquet,601509,24,Selected raw household variables extracted from NFHS-4 for this project.
+nfhs5_individual_raw_selected.parquet,processed/nfhs/nfhs5_individual_raw_selected.parquet,724115,50,Selected raw individual variables extracted from NFHS-5 for this project.
+nfhs5_household_raw_selected.parquet,processed/nfhs/nfhs5_household_raw_selected.parquet,636699,26,Selected raw household variables extracted from NFHS-5 for this project.
+nfhs_individual_harmonized.parquet,processed/nfhs/nfhs_individual_harmonized.parquet,1423801,53,Harmonized woman-level extract combining NFHS-4 and NFHS-5 with consistent analysis variable names.
+nfhs_household_harmonized.parquet,processed/nfhs/nfhs_household_harmonized.parquet,1238208,29,Harmonized household-level extract combining NFHS-4 and NFHS-5 with consistent analysis variable names.

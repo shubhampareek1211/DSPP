@@ -1,0 +1,70 @@
+dataset,variable,label,role,why_needed
+Individual,caseid,case identification,identifier,unique woman id
+Individual,v001,cluster number,identifier,cluster id for merge/grouping
+Individual,v002,household number,identifier,household id for merge to household file
+Individual,v003,respondent's line number,identifier,woman line number within household
+Individual,v005,women's individual sample weight (6 decimals),weight,sampling weight for women analyses
+Individual,v006,month of interview,timing,interview month for survey timing controls
+Individual,v007,year of interview,timing,interview year
+Individual,v024,state,geography,state fixed effects / geography
+Individual,v025,type of place of residence,geography,urban-rural classification
+Individual,sdist,district,geography,district-level geography for state-module analysis
+Individual,v012,respondent's current age,demographic,age control
+Individual,v106,highest educational level,demographic,education control
+Individual,v130,religion,demographic,religion control
+Individual,v169a,owns a mobile telephone,outcome,mobile phone ownership
+Individual,v169b,use mobile telephone for financial transactions,outcome,mobile-based financial usage
+Individual,v170,has an account in a bank or other financial institution,outcome,bank/financial account ownership
+Individual,v171a,use of internet,outcome,internet use
+Individual,v171b,na - frequency of using internet last month,outcome,internet-use intensity
+Individual,v714,respondent currently working,outcome,currently working
+Individual,v716,respondent's occupation,outcome,occupation detail
+Individual,v717,respondent's occupation (grouped),outcome,occupation grouped
+Individual,v719,"respondent works for family, others, self",outcome,self/family/others work status
+Individual,v721,na - respondent works at home or away,outcome,works at home or away
+Individual,v731,respondent worked in last 12 months,outcome,worked in last 12 months
+Individual,v739,person who usually decides how to spend respondent's earnings,decision_making,control over own earnings
+Individual,v741,type of earnings from respondent's work,outcome,cash/in-kind earnings type
+Individual,v743a,person who usually decides on respondent's health care,decision_making,decision on own health care
+Individual,v743b,person who usually decides on large household purchases,decision_making,decision on large household purchases
+Individual,v743c,na - person who usually decides on household purchases for daily needs,decision_making,decision on daily household purchases
+Individual,v743d,person who usually decides on visits to family or relatives,decision_making,decision on visits to family/relatives
+Individual,v743f,person who usually decides what to do with money husband earns,decision_making,decision on husband earnings
+Individual,v746,respondent earns more than husband/partner,outcome,relative earnings compared with husband
+Individual,v190,wealth index combined,control,wealth index available directly in IR
+Individual,v190a,wealth index for urban/rural,control,urban-rural wealth index
+Individual,v481,covered by health insurance,control,health insurance coverage
+Individual,s929,do you have any money of your own that you alone can decide how to use,financial_autonomy,money of own that woman alone can decide how to use
+Individual,s931,do you have a bank or savings account that you yourself use,financial_autonomy,bank or savings account that woman herself uses
+Individual,s932,do you have any mobile phone that you yourself use,financial_autonomy,mobile phone that woman herself uses
+Individual,s933,do you use your mobile phone for any financial transaction?,financial_autonomy,uses mobile for financial transactions
+Individual,s934,have you ever used the internet?,financial_autonomy,ever used internet
+Individual,s940,do you know of any programmes in this area that give loans to women to start or ,finance_access,knows of programmes giving loans to women
+Individual,s941,"have you yourself ever taken a loan, in cash or in kind, from any of these progr",finance_access,ever took loan from such programmes
+Individual,s457_1,receive financial assistance for delivery care,transfer_related,received financial assistance for delivery care for most recent birth
+Individual,s459_1,number of days after delivery received jsy financial assistance,transfer_related,days after delivery received JSY financial assistance for most recent birth
+Household,hhid,case identification,identifier,household case id
+Household,hv001,cluster number,identifier,cluster id
+Household,hv002,household number,identifier,household id
+Household,hv005,household sample weight (6 decimals),weight,household sampling weight
+Household,hv006,month of interview,timing,interview month
+Household,hv007,year of interview,timing,interview year
+Household,hv024,state,geography,state
+Household,hv025,type of place of residence,geography,urban-rural classification
+Household,shdist,district number,geography,district-level geography for state-module analysis
+Household,hv206,has electricity,household_control,electricity
+Household,hv221,has telephone (land-line),household_control,landline telephone
+Household,hv243a,has mobile telephone,household_control,household has mobile phone
+Household,hv247,has bank account,household_control,household has bank account
+Household,hv270,wealth index combined,household_control,wealth index combined
+Household,hv270a,wealth index for urban/rural,household_control,wealth index urban-rural
+Household,hv271,wealth index factor score combined (5 decimals),household_control,wealth factor score
+Household,hv271a,wealth index factor score for urban/rural (5 decimals),household_control,wealth factor score urban-rural
+Household,hv201,source of drinking water,household_control,drinking water source
+Household,hv204,time to get to water source (minutes),household_control,time to water source
+Household,hv205,type of toilet facility,household_control,toilet facility
+Household,hv225,share toilet with other households,household_control,shared toilet
+Household,sh50n,internet,household_control,internet in household asset list
+Household,sv270s,wealth index within state,household_control,within-state wealth index
+Household,sv270us,wealth index - urban within state,household_control,urban within-state wealth index
+Household,sv270rs,wealth index - rural within state,household_control,rural within-state wealth index

@@ -1,0 +1,3 @@
+retrieved_date,state,scheme,metric,value,source_url
+2026-04-12,Maharashtra,Mukhyamantri Majhi Ladki Bahin Yojana,totalCount,11270261,https://ladkibahinapi.dasberry.com/application/get-application-statuses-count
+2026-04-12,Maharashtra,Mukhyamantri Majhi Ladki Bahin Yojana,approved,10669139,https://ladkibahinapi.dasberry.com/application/get-application-statuses-count
