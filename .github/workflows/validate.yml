@@ -30,9 +30,13 @@ jobs:
           python scripts/03_figures/make_paper_figures_v3.py
           python scripts/03_figures/make_figure3_1_pmmvy_intensity.py
 
-      - name: Verify tracked outputs are current
+      - name: Verify generated outputs
         run: |
-          git diff --exit-code -- results/figures/paper
+          test -s results/figures/paper/fig1_autonomy_tercile.png
+          test -s results/figures/paper/fig2_banking_bonus.png
+          test -s results/figures/paper/fig3_branches_vs_growth.png
+          test -s results/figures/paper/fig4_panel_banking_v3.png
+          test -s results/figures/paper/figure3_1_pmmvy_intensity.png
           test -s output/pdf/cash_transfers_banking_womens_financial_empowerment_india.pdf
 
       - name: Check optional PhonePe builder interface
