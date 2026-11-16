@@ -1,0 +1,6 @@
+file_name,relative_path,rows,columns,description
+rbi_statement16_2013_bankgroup_long.csv,processed/rbi/rbi_statement16_2013_bankgroup_long.csv,8250,16,Long bank-group-level RBI Statement 16 extract for September and December 2013.
+rbi_district_baseline_2013_snapshots.csv,processed/rbi/rbi_district_baseline_2013_snapshots.csv,1310,14,"District-level total reporting offices, deposits, and credit across all bank groups for both 2013 snapshots."
+rbi_district_bankgroup_2013_snapshots.csv,processed/rbi/rbi_district_bankgroup_2013_snapshots.csv,1304,30,District-level wide extract with separate fields for each bank group across both 2013 snapshots.
+rbi_district_baseline_dec_2013.csv,processed/rbi/rbi_district_baseline_dec_2013.csv,656,14,Recommended pre-treatment district baseline using the December 2013 RBI Statement 16 snapshot.
+rbi_district_baseline_sep_2013.csv,processed/rbi/rbi_district_baseline_sep_2013.csv,654,14,Supplementary district baseline using the September 2013 RBI Statement 16 snapshot.

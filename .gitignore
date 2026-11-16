@@ -1,0 +1,60 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local agent configuration
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Rebuildable PDF intermediates (the final PDF under output/pdf is tracked)
+tmp/pdfs/
+
+# Jupyter and R session state
+.ipynb_checkpoints/
+.RData
+.Rhistory
+.Rproj.user/
+
+# Restricted NFHS/DHS respondent-level data
+data/raw/nfhs4/
+data/raw/nfhs5/
+data/raw/phonepe_pulse/
+data/processed/nfhs/*.parquet
+data/processed/up/up_analysis_dataset.parquet
+data/processed/multistate/*_analysis_dataset.parquet
+
+# Large or replaceable source downloads
+data/raw/**/*.pdf
+data/raw/**/*.xls
+data/raw/**/*.xlsx
+data/raw/**/*.numbers
+data/raw/**/*.html
+data/processed/shapefiles/
+
+# Superseded and local-only outputs
+results/figures/draft/
+results/.RData
+results/.Rhistory
+results/findings/findings_*.md
+results/tables/table2_main_did.csv
+results/tables/table4_robustness.csv
+results/tables/table5_balance.csv
+
+# Historical planning notes with obsolete local paths
+docs/planning/
+
+# One-time local migration utility
+scripts/03_figures/reorganise_project.py
+scripts/03_figures/make_paper_figures.py
+scripts/03_figures/make_paper_figures_v2.py
+scripts/03_figures/revise_paper_docx.py

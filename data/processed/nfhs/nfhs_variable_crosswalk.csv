@@ -1,0 +1,143 @@
+survey_round,level,source_file,source_variable,label,harmonized_variable,kept_in_raw_selected_extract,kept_in_harmonized_extract
+NFHS-4,household,IAHR74FL.DTA,hhid,case identification,hhid,1,1
+NFHS-4,household,IAHR74FL.DTA,hv001,cluster number,cluster_number,1,1
+NFHS-4,household,IAHR74FL.DTA,hv002,household number,household_number,1,1
+NFHS-4,household,IAHR74FL.DTA,hv005,household sample weight (6 decimals),household_weight,1,1
+NFHS-4,household,IAHR74FL.DTA,hv006,month of interview,interview_month,1,1
+NFHS-4,household,IAHR74FL.DTA,hv007,year of interview,interview_year,1,1
+NFHS-4,household,IAHR74FL.DTA,hv024,state,state_code,1,1
+NFHS-4,household,IAHR74FL.DTA,hv025,type of place of residence,urban_rural,1,1
+NFHS-4,household,IAHR74FL.DTA,hv201,source of drinking water,drinking_water_source,1,1
+NFHS-4,household,IAHR74FL.DTA,hv204,time to get to water source (minutes),minutes_to_water_source,1,1
+NFHS-4,household,IAHR74FL.DTA,hv205,type of toilet facility,toilet_facility,1,1
+NFHS-4,household,IAHR74FL.DTA,hv206,has electricity,electricity,1,1
+NFHS-4,household,IAHR74FL.DTA,hv221,has telephone (land-line),landline_telephone,1,1
+NFHS-4,household,IAHR74FL.DTA,hv225,share toilet with other households,toilet_shared,1,1
+NFHS-4,household,IAHR74FL.DTA,hv243a,has mobile telephone,mobile_telephone,1,1
+NFHS-4,household,IAHR74FL.DTA,hv247,has bank account,bank_account,1,1
+NFHS-4,household,IAHR74FL.DTA,hv270,wealth index,wealth_index,1,1
+NFHS-4,household,IAHR74FL.DTA,hv271,wealth index factor score (5 decimals),wealth_factor_score,1,1
+NFHS-4,household,IAHR74FL.DTA,sh37n,internet,household_internet,1,1
+NFHS-4,household,IAHR74FL.DTA,shdistri,district,district_code,1,1
+NFHS-4,household,IAHR74FL.DTA,shv005,state household weight (6 decimals),state_household_weight,1,1
+NFHS-4,household,IAHR74FL.DTA,sv270rs,wealth index - rural within state,wealth_within_state_rural,1,1
+NFHS-4,household,IAHR74FL.DTA,sv270s,wealth index within state,wealth_within_state,1,1
+NFHS-4,household,IAHR74FL.DTA,sv270us,wealth index - urban within state,wealth_within_state_urban,1,1
+NFHS-5,household,IAHR7EFL.DTA,hhid,case identification,hhid,1,1
+NFHS-5,household,IAHR7EFL.DTA,hv001,cluster number,cluster_number,1,1
+NFHS-5,household,IAHR7EFL.DTA,hv002,household number,household_number,1,1
+NFHS-5,household,IAHR7EFL.DTA,hv005,household sample weight (6 decimals),household_weight,1,1
+NFHS-5,household,IAHR7EFL.DTA,hv006,month of interview,interview_month,1,1
+NFHS-5,household,IAHR7EFL.DTA,hv007,year of interview,interview_year,1,1
+NFHS-5,household,IAHR7EFL.DTA,hv024,state,state_code,1,1
+NFHS-5,household,IAHR7EFL.DTA,hv025,type of place of residence,urban_rural,1,1
+NFHS-5,household,IAHR7EFL.DTA,hv201,source of drinking water,drinking_water_source,1,1
+NFHS-5,household,IAHR7EFL.DTA,hv204,time to get to water source (minutes),minutes_to_water_source,1,1
+NFHS-5,household,IAHR7EFL.DTA,hv205,type of toilet facility,toilet_facility,1,1
+NFHS-5,household,IAHR7EFL.DTA,hv206,has electricity,electricity,1,1
+NFHS-5,household,IAHR7EFL.DTA,hv221,has telephone (land-line),landline_telephone,1,1
+NFHS-5,household,IAHR7EFL.DTA,hv225,share toilet with other households,toilet_shared,1,1
+NFHS-5,household,IAHR7EFL.DTA,hv243a,has mobile telephone,mobile_telephone,1,1
+NFHS-5,household,IAHR7EFL.DTA,hv247,has bank account,bank_account,1,1
+NFHS-5,household,IAHR7EFL.DTA,hv270,wealth index combined,wealth_index,1,1
+NFHS-5,household,IAHR7EFL.DTA,hv270a,wealth index for urban/rural,wealth_index_urban_rural,1,1
+NFHS-5,household,IAHR7EFL.DTA,hv271,wealth index factor score combined (5 decimals),wealth_factor_score,1,1
+NFHS-5,household,IAHR7EFL.DTA,hv271a,wealth index factor score for urban/rural (5 decimals),wealth_factor_score_urban_rural,1,1
+NFHS-5,household,IAHR7EFL.DTA,sh50n,internet,household_internet,1,1
+NFHS-5,household,IAHR7EFL.DTA,shdist,district number,district_code,1,1
+NFHS-5,household,IAHR7EFL.DTA,shweight,household weight (6 decimals) (state level),state_household_weight,1,1
+NFHS-5,household,IAHR7EFL.DTA,sv270rs,wealth index - rural within state,wealth_within_state_rural,1,1
+NFHS-5,household,IAHR7EFL.DTA,sv270s,wealth index within state,wealth_within_state,1,1
+NFHS-5,household,IAHR7EFL.DTA,sv270us,wealth index - urban within state,wealth_within_state_urban,1,1
+NFHS-4,individual,IAIR74FL.DTA,caseid,case identification,caseid,1,1
+NFHS-4,individual,IAIR74FL.DTA,s190rs,wealth index - rural within state,wealth_within_state_rural,1,1
+NFHS-4,individual,IAIR74FL.DTA,s190s,wealth index within state,wealth_within_state,1,1
+NFHS-4,individual,IAIR74FL.DTA,s190us,wealth index - urban within state,wealth_within_state_urban,1,1
+NFHS-4,individual,IAIR74FL.DTA,s452_1,receive financial assistance for delivery care,delivery_financial_assistance_recent_birth,1,1
+NFHS-4,individual,IAIR74FL.DTA,s454_1,number of days after delivery received jsy financial assistance,days_to_jsy_assistance_recent_birth,1,1
+NFHS-4,individual,IAIR74FL.DTA,s927,has money that respondent alone can decide how to use,own_money_autonomy,1,1
+NFHS-4,individual,IAIR74FL.DTA,s929,has bank or savings account that respondent uses,bank_account_self_use,1,1
+NFHS-4,individual,IAIR74FL.DTA,s930,has mobile phone that respondent uses,mobile_phone_self_use,1,1
+NFHS-4,individual,IAIR74FL.DTA,s933,knows programme in this area that give loans to women to start or expand a busin,loan_program_knowledge,1,1
+NFHS-4,individual,IAIR74FL.DTA,s934,"ever taken a loan, cash or in kind, from these programmes, to start or expand a ",loan_program_taken,1,1
+NFHS-4,individual,IAIR74FL.DTA,sd005,state weight for domestic violence (6 decimals),domestic_violence_weight,1,1
+NFHS-4,individual,IAIR74FL.DTA,sdistri,district,district_code,1,1
+NFHS-4,individual,IAIR74FL.DTA,ssmod,"selected for 'state' module; i.e. hiv knowledge, sexual history, women's work mo",selected_state_module,1,1
+NFHS-4,individual,IAIR74FL.DTA,sv005,state women's sample weight (6 decimals),state_module_weight,1,1
+NFHS-4,individual,IAIR74FL.DTA,v001,cluster number,cluster_number,1,1
+NFHS-4,individual,IAIR74FL.DTA,v002,household number,household_number,1,1
+NFHS-4,individual,IAIR74FL.DTA,v003,respondent's line number,respondent_line,1,1
+NFHS-4,individual,IAIR74FL.DTA,v005,national women's sample weight (6 decimals),woman_weight,1,1
+NFHS-4,individual,IAIR74FL.DTA,v006,month of interview,interview_month,1,1
+NFHS-4,individual,IAIR74FL.DTA,v007,year of interview,interview_year,1,1
+NFHS-4,individual,IAIR74FL.DTA,v012,respondent's current age,age,1,1
+NFHS-4,individual,IAIR74FL.DTA,v024,state,state_code,1,1
+NFHS-4,individual,IAIR74FL.DTA,v025,type of place of residence,urban_rural,1,1
+NFHS-4,individual,IAIR74FL.DTA,v106,highest educational level,education_level,1,1
+NFHS-4,individual,IAIR74FL.DTA,v130,religion,religion,1,1
+NFHS-4,individual,IAIR74FL.DTA,v190,wealth index,wealth_index,1,1
+NFHS-4,individual,IAIR74FL.DTA,v481,covered by health insurance,health_insurance,1,1
+NFHS-4,individual,IAIR74FL.DTA,v714,respondent currently working,currently_working,1,1
+NFHS-4,individual,IAIR74FL.DTA,v716,respondent's occupation,occupation_code,1,1
+NFHS-4,individual,IAIR74FL.DTA,v717,respondent's occupation (grouped),occupation_grouped,1,1
+NFHS-4,individual,IAIR74FL.DTA,v719,"respondent works for family, others, self",work_for_whom,1,1
+NFHS-4,individual,IAIR74FL.DTA,v721,na - respondent works at home or away,work_location,1,1
+NFHS-4,individual,IAIR74FL.DTA,v731,respondent worked in last 12 months,worked_last_12_months,1,1
+NFHS-4,individual,IAIR74FL.DTA,v739,person who usually decides how to spend respondent's earnings,decision_spend_earnings,1,1
+NFHS-4,individual,IAIR74FL.DTA,v741,type of earnings from respondent's work,earnings_type,1,1
+NFHS-4,individual,IAIR74FL.DTA,v743a,person who usually decides on respondent's health care,decision_health_care,1,1
+NFHS-4,individual,IAIR74FL.DTA,v743b,person who usually decides on large household purchases,decision_large_purchases,1,1
+NFHS-4,individual,IAIR74FL.DTA,v743c,na - person who usually decides on household purchases for daily needs,decision_daily_purchases,1,1
+NFHS-4,individual,IAIR74FL.DTA,v743d,person who usually decides on visits to family or relatives,decision_visits_relatives,1,1
+NFHS-4,individual,IAIR74FL.DTA,v743f,person who usually decides what to do with money husband earns,decision_husband_earnings,1,1
+NFHS-4,individual,IAIR74FL.DTA,v746,respondent earns more than husband/partner,relative_earnings_vs_husband,1,1
+NFHS-5,individual,IAIR7EFL.DTA,caseid,case identification,caseid,1,1
+NFHS-5,individual,IAIR7EFL.DTA,s190rs,wealth index within state - rural,wealth_within_state_rural,1,1
+NFHS-5,individual,IAIR7EFL.DTA,s190s,wealth index within state,wealth_within_state,1,1
+NFHS-5,individual,IAIR7EFL.DTA,s190us,wealth index within state - urban,wealth_within_state_urban,1,1
+NFHS-5,individual,IAIR7EFL.DTA,s457_1,receive financial assistance for delivery care,delivery_financial_assistance_recent_birth,1,1
+NFHS-5,individual,IAIR7EFL.DTA,s459_1,number of days after delivery received jsy financial assistance,days_to_jsy_assistance_recent_birth,1,1
+NFHS-5,individual,IAIR7EFL.DTA,s929,do you have any money of your own that you alone can decide how to use,own_money_autonomy,1,1
+NFHS-5,individual,IAIR7EFL.DTA,s931,do you have a bank or savings account that you yourself use,bank_account_self_use,1,1
+NFHS-5,individual,IAIR7EFL.DTA,s932,do you have any mobile phone that you yourself use,mobile_phone_self_use,1,1
+NFHS-5,individual,IAIR7EFL.DTA,s933,do you use your mobile phone for any financial transaction?,mobile_fin_transactions_self_use,1,1
+NFHS-5,individual,IAIR7EFL.DTA,s934,have you ever used the internet?,internet_ever_used_self_report,1,1
+NFHS-5,individual,IAIR7EFL.DTA,s940,do you know of any programmes in this area that give loans to women to start or ,loan_program_knowledge,1,1
+NFHS-5,individual,IAIR7EFL.DTA,s941,"have you yourself ever taken a loan, in cash or in kind, from any of these progr",loan_program_taken,1,1
+NFHS-5,individual,IAIR7EFL.DTA,sdist,district,district_code,1,1
+NFHS-5,individual,IAIR7EFL.DTA,sdweight,domestic violence weight (6 decimals) (state level),domestic_violence_weight,1,1
+NFHS-5,individual,IAIR7EFL.DTA,ssmod,household selected for the state module,selected_state_module,1,1
+NFHS-5,individual,IAIR7EFL.DTA,sweight,sample weight (6 decimals) (state level),state_module_weight,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v001,cluster number,cluster_number,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v002,household number,household_number,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v003,respondent's line number,respondent_line,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v005,women's individual sample weight (6 decimals),woman_weight,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v006,month of interview,interview_month,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v007,year of interview,interview_year,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v012,respondent's current age,age,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v024,state,state_code,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v025,type of place of residence,urban_rural,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v106,highest educational level,education_level,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v130,religion,religion,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v169a,owns a mobile telephone,mobile_phone_ownership_any,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v169b,use mobile telephone for financial transactions,mobile_fin_transactions_any,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v170,has an account in a bank or other financial institution,bank_account_any,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v171a,use of internet,internet_use_any,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v171b,na - frequency of using internet last month,internet_use_frequency,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v190,wealth index combined,wealth_index,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v190a,wealth index for urban/rural,wealth_index_urban_rural,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v481,covered by health insurance,health_insurance,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v714,respondent currently working,currently_working,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v716,respondent's occupation,occupation_code,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v717,respondent's occupation (grouped),occupation_grouped,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v719,"respondent works for family, others, self",work_for_whom,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v721,na - respondent works at home or away,work_location,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v731,respondent worked in last 12 months,worked_last_12_months,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v739,person who usually decides how to spend respondent's earnings,decision_spend_earnings,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v741,type of earnings from respondent's work,earnings_type,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v743a,person who usually decides on respondent's health care,decision_health_care,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v743b,person who usually decides on large household purchases,decision_large_purchases,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v743c,na - person who usually decides on household purchases for daily needs,decision_daily_purchases,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v743d,person who usually decides on visits to family or relatives,decision_visits_relatives,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v743f,person who usually decides what to do with money husband earns,decision_husband_earnings,1,1
+NFHS-5,individual,IAIR7EFL.DTA,v746,respondent earns more than husband/partner,relative_earnings_vs_husband,1,1

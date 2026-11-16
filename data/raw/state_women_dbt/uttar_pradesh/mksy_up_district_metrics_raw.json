@@ -1,0 +1,1127 @@
+{
+  "01": {
+    "fillColor": "#cea436",
+    "hoverColor": "#f2edee",
+    "cardBackgroundColor": "#f2edee",
+    "districtName": "Saharanpur",
+    "kpi_data": {
+      "kpi1_data": 87707,
+      "kpi2_data": 67489,
+      "kpi3_data": 2049,
+      "kpi4_data": 65440,
+      "kpi5_data": 18864,
+      "kpi6_data": 1354,
+      "kpi7_data": 762
+    }
+  },
+  "02": {
+    "fillColor": "#b687c0",
+    "hoverColor": "#D1D1E6",
+    "cardBackgroundColor": "#D1D1E6",
+    "districtName": "Muzaffarnagar",
+    "kpi_data": {
+      "kpi1_data": 49801,
+      "kpi2_data": 37095,
+      "kpi3_data": 376,
+      "kpi4_data": 36719,
+      "kpi5_data": 12097,
+      "kpi6_data": 609,
+      "kpi7_data": 418
+    }
+  },
+  "03": {
+    "fillColor": "#a97070",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Bijnor",
+    "cardBackgroundColor": "#D1D1E6",
+    "kpi_data": {
+      "kpi1_data": 65840,
+      "kpi2_data": 47233,
+      "kpi3_data": 1234,
+      "kpi4_data": 45999,
+      "kpi5_data": 18026,
+      "kpi6_data": 581,
+      "kpi7_data": 486
+    }
+  },
+  "04": {
+    "fillColor": "#8CBA80",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Moradabad",
+    "cardBackgroundColor": "#D1D1E6",
+    "kpi_data": {
+      "kpi1_data": 54591,
+      "kpi2_data": 32209,
+      "kpi3_data": 527,
+      "kpi4_data": 31682,
+      "kpi5_data": 21685,
+      "kpi6_data": 697,
+      "kpi7_data": 499
+    }
+  },
+  "05": {
+    "fillColor": "#F4A259",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Rampur",
+    "kpi_data": {
+      "kpi1_data": 35811,
+      "kpi2_data": 17766,
+      "kpi3_data": 667,
+      "kpi4_data": 17099,
+      "kpi5_data": 17587,
+      "kpi6_data": 458,
+      "kpi7_data": 385
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "06": {
+    "fillColor": "#AA5585",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Amroha",
+    "kpi_data": {
+      "kpi1_data": 40069,
+      "kpi2_data": 27852,
+      "kpi3_data": 1177,
+      "kpi4_data": 26675,
+      "kpi5_data": 11926,
+      "kpi6_data": 291,
+      "kpi7_data": 284
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "07": {
+    "fillColor": "#805D93",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Meerut",
+    "kpi_data": {
+      "kpi1_data": 51500,
+      "kpi2_data": 32740,
+      "kpi3_data": 1163,
+      "kpi4_data": 31577,
+      "kpi5_data": 18027,
+      "kpi6_data": 733,
+      "kpi7_data": 367
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "08": {
+    "fillColor": "#46B1C9",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Baghpat",
+    "kpi_data": {
+      "kpi1_data": 26672,
+      "kpi2_data": 21687,
+      "kpi3_data": 520,
+      "kpi4_data": 21167,
+      "kpi5_data": 4600,
+      "kpi6_data": 385,
+      "kpi7_data": 201
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "09": {
+    "fillColor": "#99C24D",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Ghaziabad",
+    "kpi_data": {
+      "kpi1_data": 62390,
+      "kpi2_data": 44411,
+      "kpi3_data": 1077,
+      "kpi4_data": 43334,
+      "kpi5_data": 17529,
+      "kpi6_data": 450,
+      "kpi7_data": 326
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "10": {
+    "fillColor": "#EFCB68",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Gautam Buddha Nagar",
+    "kpi_data": {
+      "kpi1_data": 15026,
+      "kpi2_data": 9449,
+      "kpi3_data": 106,
+      "kpi4_data": 9343,
+      "kpi5_data": 5340,
+      "kpi6_data": 237,
+      "kpi7_data": 89
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "11": {
+    "fillColor": "#249485",
+    "hoverColor": "#d1d1e6",
+    "districtName": "Bulandshahr",
+    "kpi_data": {
+      "kpi1_data": 55501,
+      "kpi2_data": 39593,
+      "kpi3_data": 1110,
+      "kpi4_data": 38483,
+      "kpi5_data": 15191,
+      "kpi6_data": 717,
+      "kpi7_data": 418
+    },
+    "cardBackgroundColor": "#d1d1e6"
+  },
+  "12": {
+    "fillColor": "#70A288",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Aligarh",
+    "kpi_data": {
+      "kpi1_data": 48788,
+      "kpi2_data": 31514,
+      "kpi3_data": 882,
+      "kpi4_data": 30632,
+      "kpi5_data": 16939,
+      "kpi6_data": 335,
+      "kpi7_data": 273
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "13": {
+    "fillColor": "#F4B400",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Mahamaya Nagar (Hathras)",
+    "kpi_data": {
+      "kpi1_data": 29959,
+      "kpi2_data": 20711,
+      "kpi3_data": 398,
+      "kpi4_data": 20313,
+      "kpi5_data": 9019,
+      "kpi6_data": 229,
+      "kpi7_data": 211
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "14": {
+    "fillColor": "#ED7D3A",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Mathura",
+    "kpi_data": {
+      "kpi1_data": 48451,
+      "kpi2_data": 30286,
+      "kpi3_data": 653,
+      "kpi4_data": 29633,
+      "kpi5_data": 17687,
+      "kpi6_data": 478,
+      "kpi7_data": 353
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "15": {
+    "fillColor": "#9D44B5",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Agra",
+    "kpi_data": {
+      "kpi1_data": 59615,
+      "kpi2_data": 23536,
+      "kpi3_data": 224,
+      "kpi4_data": 23312,
+      "kpi5_data": 35232,
+      "kpi6_data": 847,
+      "kpi7_data": 249
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "16": {
+    "fillColor": "#5370d0",
+    "hoverColor": "#d1d1e6",
+    "districtName": "Firozabad",
+    "kpi_data": {
+      "kpi1_data": 50235,
+      "kpi2_data": 32642,
+      "kpi3_data": 597,
+      "kpi4_data": 32045,
+      "kpi5_data": 17063,
+      "kpi6_data": 530,
+      "kpi7_data": 279
+    },
+    "cardBackgroundColor": "#d1d1e6"
+  },
+  "17": {
+    "fillColor": "#B76E79",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Etah",
+    "kpi_data": {
+      "kpi1_data": 31927,
+      "kpi2_data": 19828,
+      "kpi3_data": 364,
+      "kpi4_data": 19464,
+      "kpi5_data": 11988,
+      "kpi6_data": 111,
+      "kpi7_data": 111
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "18": {
+    "fillColor": "#DAA520",
+    "hoverColor": "#C88F1A",
+    "districtName": "Mainpuri",
+    "kpi_data": {
+      "kpi1_data": 30918,
+      "kpi2_data": 17085,
+      "kpi3_data": 496,
+      "kpi4_data": 16589,
+      "kpi5_data": 13657,
+      "kpi6_data": 176,
+      "kpi7_data": 155
+    },
+    "cardBackgroundColor": "#C88F1A"
+  },
+  "19": {
+    "fillColor": "#FF69B4",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Budaun",
+    "kpi_data": {
+      "kpi1_data": 47794,
+      "kpi2_data": 30774,
+      "kpi3_data": 829,
+      "kpi4_data": 29945,
+      "kpi5_data": 16447,
+      "kpi6_data": 573,
+      "kpi7_data": 387
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "20": {
+    "fillColor": "#FFD700",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Bareilly",
+    "kpi_data": {
+      "kpi1_data": 67577,
+      "kpi2_data": 42930,
+      "kpi3_data": 1299,
+      "kpi4_data": 41631,
+      "kpi5_data": 23494,
+      "kpi6_data": 1153,
+      "kpi7_data": 686
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "21": {
+    "fillColor": "#6da40e",
+    "hoverColor": "#d1d1e6",
+    "districtName": "Pilibhit",
+    "kpi_data": {
+      "kpi1_data": 47952,
+      "kpi2_data": 32923,
+      "kpi3_data": 1161,
+      "kpi4_data": 31762,
+      "kpi5_data": 14064,
+      "kpi6_data": 965,
+      "kpi7_data": 747
+    },
+    "cardBackgroundColor": "#d1d1e6"
+  },
+  "22": {
+    "fillColor": "#ADD8E6",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Shahjahanpur",
+    "kpi_data": {
+      "kpi1_data": 55694,
+      "kpi2_data": 35242,
+      "kpi3_data": 914,
+      "kpi4_data": 34328,
+      "kpi5_data": 19451,
+      "kpi6_data": 1001,
+      "kpi7_data": 511
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "23": {
+    "fillColor": "#b309b3",
+    "hoverColor": "#d1d1e6",
+    "districtName": "Kheri",
+    "kpi_data": {
+      "kpi1_data": 109648,
+      "kpi2_data": 68762,
+      "kpi3_data": 1424,
+      "kpi4_data": 67338,
+      "kpi5_data": 39951,
+      "kpi6_data": 935,
+      "kpi7_data": 522
+    },
+    "cardBackgroundColor": "#d1d1e6"
+  },
+  "24": {
+    "fillColor": "#D2B48C",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Sitapur",
+    "kpi_data": {
+      "kpi1_data": 116739,
+      "kpi2_data": 82597,
+      "kpi3_data": 1186,
+      "kpi4_data": 81411,
+      "kpi5_data": 32892,
+      "kpi6_data": 1250,
+      "kpi7_data": 876
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "25": {
+    "fillColor": "#FF8C00",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Hardoi",
+    "kpi_data": {
+      "kpi1_data": 104956,
+      "kpi2_data": 86316,
+      "kpi3_data": 1797,
+      "kpi4_data": 84519,
+      "kpi5_data": 17695,
+      "kpi6_data": 945,
+      "kpi7_data": 773
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "26": {
+    "fillColor": "#FFFF99",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Unnao",
+    "kpi_data": {
+      "kpi1_data": 129549,
+      "kpi2_data": 97174,
+      "kpi3_data": 1648,
+      "kpi4_data": 95526,
+      "kpi5_data": 30886,
+      "kpi6_data": 1489,
+      "kpi7_data": 961
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "27": {
+    "fillColor": "#ba80c2",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Lucknow",
+    "kpi_data": {
+      "kpi1_data": 103143,
+      "kpi2_data": 73130,
+      "kpi3_data": 2499,
+      "kpi4_data": 70631,
+      "kpi5_data": 28746,
+      "kpi6_data": 1267,
+      "kpi7_data": 658
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "28": {
+    "fillColor": "#90EE90",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Rae Bareli",
+    "kpi_data": {
+      "kpi1_data": 93972,
+      "kpi2_data": 70925,
+      "kpi3_data": 1519,
+      "kpi4_data": 69406,
+      "kpi5_data": 22478,
+      "kpi6_data": 569,
+      "kpi7_data": 411
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "29": {
+    "fillColor": "#FFB347",
+    "hoverColor": "#F69A3A",
+    "districtName": "Farrukhabad",
+    "kpi_data": {
+      "kpi1_data": 41434,
+      "kpi2_data": 27137,
+      "kpi3_data": 243,
+      "kpi4_data": 26894,
+      "kpi5_data": 14070,
+      "kpi6_data": 227,
+      "kpi7_data": 227
+    },
+    "cardBackgroundColor": "#F69A3A"
+  },
+  "30": {
+    "fillColor": "#8B008B",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Kannauj",
+    "kpi_data": {
+      "kpi1_data": 38966,
+      "kpi2_data": 28254,
+      "kpi3_data": 550,
+      "kpi4_data": 27704,
+      "kpi5_data": 10205,
+      "kpi6_data": 507,
+      "kpi7_data": 340
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "31": {
+    "fillColor": "#87CEEB",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Etawah",
+    "kpi_data": {
+      "kpi1_data": 28496,
+      "kpi2_data": 14472,
+      "kpi3_data": 123,
+      "kpi4_data": 14349,
+      "kpi5_data": 13773,
+      "kpi6_data": 251,
+      "kpi7_data": 240
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "32": {
+    "fillColor": "#228B22",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Auraiya",
+    "kpi_data": {
+      "kpi1_data": 18526,
+      "kpi2_data": 9056,
+      "kpi3_data": 297,
+      "kpi4_data": 8759,
+      "kpi5_data": 9358,
+      "kpi6_data": 112,
+      "kpi7_data": 99
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "33": {
+    "fillColor": "#4682B4",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Kanpur Dehat",
+    "kpi_data": {
+      "kpi1_data": 50632,
+      "kpi2_data": 29987,
+      "kpi3_data": 822,
+      "kpi4_data": 29165,
+      "kpi5_data": 20266,
+      "kpi6_data": 379,
+      "kpi7_data": 310
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "34": {
+    "fillColor": "#FFD700",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Kanpur Nagar",
+    "kpi_data": {
+      "kpi1_data": 77983,
+      "kpi2_data": 35095,
+      "kpi3_data": 536,
+      "kpi4_data": 34559,
+      "kpi5_data": 41731,
+      "kpi6_data": 1157,
+      "kpi7_data": 405
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "35": {
+    "fillColor": "#2E8B57",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Jalaun",
+    "kpi_data": {
+      "kpi1_data": 34872,
+      "kpi2_data": 22750,
+      "kpi3_data": 628,
+      "kpi4_data": 22122,
+      "kpi5_data": 11733,
+      "kpi6_data": 389,
+      "kpi7_data": 340
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "36": {
+    "fillColor": "#FFA500",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Jhansi",
+    "kpi_data": {
+      "kpi1_data": 60582,
+      "kpi2_data": 42950,
+      "kpi3_data": 1480,
+      "kpi4_data": 41470,
+      "kpi5_data": 17093,
+      "kpi6_data": 539,
+      "kpi7_data": 397
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "37": {
+    "fillColor": "#f33f8d",
+    "hoverColor": "#d1d1e6",
+    "districtName": "Lalitpur",
+    "kpi_data": {
+      "kpi1_data": 59362,
+      "kpi2_data": 38664,
+      "kpi3_data": 2622,
+      "kpi4_data": 36042,
+      "kpi5_data": 20436,
+      "kpi6_data": 262,
+      "kpi7_data": 224
+    },
+    "cardBackgroundColor": "#d1d1e6"
+  },
+  "38": {
+    "fillColor": "#468499",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Hamirpur",
+    "kpi_data": {
+      "kpi1_data": 24885,
+      "kpi2_data": 17239,
+      "kpi3_data": 935,
+      "kpi4_data": 16304,
+      "kpi5_data": 7254,
+      "kpi6_data": 392,
+      "kpi7_data": 160
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "39": {
+    "fillColor": "#8aae4c",
+    "hoverColor": "#d1d1e6",
+    "districtName": "Mahoba",
+    "kpi_data": {
+      "kpi1_data": 19268,
+      "kpi2_data": 16688,
+      "kpi3_data": 444,
+      "kpi4_data": 16244,
+      "kpi5_data": 2244,
+      "kpi6_data": 336,
+      "kpi7_data": 95
+    },
+    "cardBackgroundColor": "#d1d1e6"
+  },
+  "40": {
+    "fillColor": "#D2691E",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Banda",
+    "kpi_data": {
+      "kpi1_data": 58760,
+      "kpi2_data": 31272,
+      "kpi3_data": 1354,
+      "kpi4_data": 29918,
+      "kpi5_data": 27116,
+      "kpi6_data": 372,
+      "kpi7_data": 250
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "41": {
+    "fillColor": "#2525d4",
+    "hoverColor": "#d1d1e6",
+    "districtName": "Chitrakoot",
+    "kpi_data": {
+      "kpi1_data": 24074,
+      "kpi2_data": 18664,
+      "kpi3_data": 539,
+      "kpi4_data": 18125,
+      "kpi5_data": 5129,
+      "kpi6_data": 281,
+      "kpi7_data": 191
+    },
+    "cardBackgroundColor": "#d1d1e6"
+  },
+  "42": {
+    "fillColor": "#BDB76B",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Fatehpur",
+    "kpi_data": {
+      "kpi1_data": 94798,
+      "kpi2_data": 53117,
+      "kpi3_data": 1425,
+      "kpi4_data": 51692,
+      "kpi5_data": 40775,
+      "kpi6_data": 906,
+      "kpi7_data": 501
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "43": {
+    "fillColor": "#11b0b0",
+    "hoverColor": "#d1d1e6",
+    "districtName": "Pratapgarh",
+    "kpi_data": {
+      "kpi1_data": 104311,
+      "kpi2_data": 43467,
+      "kpi3_data": 799,
+      "kpi4_data": 42668,
+      "kpi5_data": 60553,
+      "kpi6_data": 291,
+      "kpi7_data": 219
+    },
+    "cardBackgroundColor": "#d1d1e6"
+  },
+  "44": {
+    "fillColor": "#b73434",
+    "hoverColor": "#d1d1e6",
+    "districtName": "Kaushambi",
+    "kpi_data": {
+      "kpi1_data": 38661,
+      "kpi2_data": 28389,
+      "kpi3_data": 1042,
+      "kpi4_data": 27347,
+      "kpi5_data": 10062,
+      "kpi6_data": 210,
+      "kpi7_data": 206
+    },
+    "cardBackgroundColor": "#d1d1e6"
+  },
+  "45": {
+    "fillColor": "#C71585",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Prayagraj",
+    "kpi_data": {
+      "kpi1_data": 111255,
+      "kpi2_data": 62037,
+      "kpi3_data": 687,
+      "kpi4_data": 61350,
+      "kpi5_data": 48119,
+      "kpi6_data": 1099,
+      "kpi7_data": 289
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "46": {
+    "fillColor": "#4682B4",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Barabanki",
+    "kpi_data": {
+      "kpi1_data": 58048,
+      "kpi2_data": 42442,
+      "kpi3_data": 1384,
+      "kpi4_data": 41058,
+      "kpi5_data": 14425,
+      "kpi6_data": 1181,
+      "kpi7_data": 952
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "47": {
+    "fillColor": "#6c8b37",
+    "hoverColor": "#d1d1e6",
+    "districtName": "Ayodhya",
+    "kpi_data": {
+      "kpi1_data": 79964,
+      "kpi2_data": 39355,
+      "kpi3_data": 51,
+      "kpi4_data": 39304,
+      "kpi5_data": 39602,
+      "kpi6_data": 1007,
+      "kpi7_data": 339
+    },
+    "cardBackgroundColor": "#d1d1e6"
+  },
+  "48": {
+    "fillColor": "#FF8C00",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Ambedkar Nagar ",
+    "kpi_data": {
+      "kpi1_data": 64865,
+      "kpi2_data": 36200,
+      "kpi3_data": 703,
+      "kpi4_data": 35497,
+      "kpi5_data": 28289,
+      "kpi6_data": 376,
+      "kpi7_data": 261
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "49": {
+    "fillColor": "#3e3ed0",
+    "hoverColor": "#d1d1e6",
+    "districtName": "Sultanpur",
+    "kpi_data": {
+      "kpi1_data": 70950,
+      "kpi2_data": 47981,
+      "kpi3_data": 1296,
+      "kpi4_data": 46685,
+      "kpi5_data": 22478,
+      "kpi6_data": 491,
+      "kpi7_data": 478
+    },
+    "cardBackgroundColor": "#d1d1e6"
+  },
+  "50": {
+    "fillColor": "#FFD700",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Bahraich",
+    "kpi_data": {
+      "kpi1_data": 100274,
+      "kpi2_data": 61436,
+      "kpi3_data": 1503,
+      "kpi4_data": 59933,
+      "kpi5_data": 37974,
+      "kpi6_data": 864,
+      "kpi7_data": 550
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "51": {
+    "fillColor": "#098109",
+    "hoverColor": "#d1d1e6",
+    "districtName": "Shravasti",
+    "kpi_data": {
+      "kpi1_data": 25198,
+      "kpi2_data": 11616,
+      "kpi3_data": 388,
+      "kpi4_data": 11228,
+      "kpi5_data": 13437,
+      "kpi6_data": 145,
+      "kpi7_data": 94
+    },
+    "cardBackgroundColor": "#d1d1e6"
+  },
+  "52": {
+    "fillColor": "#FFA500",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Balrampur ",
+    "kpi_data": {
+      "kpi1_data": 25388,
+      "kpi2_data": 17313,
+      "kpi3_data": 471,
+      "kpi4_data": 16842,
+      "kpi5_data": 7619,
+      "kpi6_data": 456,
+      "kpi7_data": 150
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "53": {
+    "fillColor": "#9c119c",
+    "hoverColor": "#d1d1e6",
+    "districtName": "Gonda",
+    "kpi_data": {
+      "kpi1_data": 126260,
+      "kpi2_data": 66850,
+      "kpi3_data": 733,
+      "kpi4_data": 66117,
+      "kpi5_data": 58457,
+      "kpi6_data": 953,
+      "kpi7_data": 591
+    },
+    "cardBackgroundColor": "#d1d1e6"
+  },
+  "54": {
+    "fillColor": "#87CEFA",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Siddharth Nagar",
+    "kpi_data": {
+      "kpi1_data": 42653,
+      "kpi2_data": 26547,
+      "kpi3_data": 510,
+      "kpi4_data": 26037,
+      "kpi5_data": 15670,
+      "kpi6_data": 436,
+      "kpi7_data": 275
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "55": {
+    "fillColor": "#b8b96a",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Basti",
+    "kpi_data": {
+      "kpi1_data": 58141,
+      "kpi2_data": 35898,
+      "kpi3_data": 364,
+      "kpi4_data": 35534,
+      "kpi5_data": 21923,
+      "kpi6_data": 320,
+      "kpi7_data": 173
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "56": {
+    "fillColor": "#c973c6",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Sant Kabeer Nagar",
+    "kpi_data": {
+      "kpi1_data": 34709,
+      "kpi2_data": 18504,
+      "kpi3_data": 528,
+      "kpi4_data": 17976,
+      "kpi5_data": 15959,
+      "kpi6_data": 246,
+      "kpi7_data": 167
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "57": {
+    "fillColor": "#E6E6FA",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Maharajganj",
+    "kpi_data": {
+      "kpi1_data": 68699,
+      "kpi2_data": 44338,
+      "kpi3_data": 1741,
+      "kpi4_data": 42597,
+      "kpi5_data": 24018,
+      "kpi6_data": 343,
+      "kpi7_data": 291
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "58": {
+    "fillColor": "#32CD32",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Gorakhpur",
+    "kpi_data": {
+      "kpi1_data": 107956,
+      "kpi2_data": 57597,
+      "kpi3_data": 947,
+      "kpi4_data": 56650,
+      "kpi5_data": 49396,
+      "kpi6_data": 963,
+      "kpi7_data": 478
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "59": {
+    "fillColor": "#FF7F50",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Kushi Nagar",
+    "kpi_data": {
+      "kpi1_data": 92615,
+      "kpi2_data": 49115,
+      "kpi3_data": 967,
+      "kpi4_data": 48148,
+      "kpi5_data": 42878,
+      "kpi6_data": 622,
+      "kpi7_data": 323
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "60": {
+    "fillColor": "#8312d3",
+    "hoverColor": "#d1d1e6",
+    "districtName": "Deoria",
+    "kpi_data": {
+      "kpi1_data": 66285,
+      "kpi2_data": 40265,
+      "kpi3_data": 1544,
+      "kpi4_data": 38721,
+      "kpi5_data": 25437,
+      "kpi6_data": 583,
+      "kpi7_data": 413
+    },
+    "cardBackgroundColor": "#d1d1e6"
+  },
+  "61": {
+    "fillColor": "#1E90FF",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Azamgarh",
+    "kpi_data": {
+      "kpi1_data": 91477,
+      "kpi2_data": 43829,
+      "kpi3_data": 406,
+      "kpi4_data": 43423,
+      "kpi5_data": 47121,
+      "kpi6_data": 527,
+      "kpi7_data": 360
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "62": {
+    "fillColor": "#008000",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Mau",
+    "kpi_data": {
+      "kpi1_data": 56359,
+      "kpi2_data": 29552,
+      "kpi3_data": 312,
+      "kpi4_data": 29240,
+      "kpi5_data": 26573,
+      "kpi6_data": 234,
+      "kpi7_data": 181
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "63": {
+    "fillColor": "#FFA07A",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Ballia",
+    "kpi_data": {
+      "kpi1_data": 107740,
+      "kpi2_data": 42800,
+      "kpi3_data": 896,
+      "kpi4_data": 41904,
+      "kpi5_data": 64351,
+      "kpi6_data": 589,
+      "kpi7_data": 248
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "64": {
+    "fillColor": "#4682B4",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Jaunpur",
+    "kpi_data": {
+      "kpi1_data": 126916,
+      "kpi2_data": 75591,
+      "kpi3_data": 1688,
+      "kpi4_data": 73903,
+      "kpi5_data": 50325,
+      "kpi6_data": 1000,
+      "kpi7_data": 358
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "65": {
+    "fillColor": "#D8BFD8",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Ghazipur",
+    "kpi_data": {
+      "kpi1_data": 56530,
+      "kpi2_data": 33470,
+      "kpi3_data": 382,
+      "kpi4_data": 33088,
+      "kpi5_data": 22864,
+      "kpi6_data": 196,
+      "kpi7_data": 190
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "66": {
+    "fillColor": "#2E8B57",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Chandauli ",
+    "kpi_data": {
+      "kpi1_data": 64852,
+      "kpi2_data": 37258,
+      "kpi3_data": 1554,
+      "kpi4_data": 35704,
+      "kpi5_data": 27226,
+      "kpi6_data": 368,
+      "kpi7_data": 307
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "67": {
+    "fillColor": "#DA70D6",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Varanasi",
+    "kpi_data": {
+      "kpi1_data": 141214,
+      "kpi2_data": 83858,
+      "kpi3_data": 1175,
+      "kpi4_data": 82683,
+      "kpi5_data": 56218,
+      "kpi6_data": 1138,
+      "kpi7_data": 484
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "68": {
+    "fillColor": "#CD5C5C",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Bhadohi",
+    "kpi_data": {
+      "kpi1_data": 42412,
+      "kpi2_data": 20176,
+      "kpi3_data": 440,
+      "kpi4_data": 19736,
+      "kpi5_data": 21897,
+      "kpi6_data": 339,
+      "kpi7_data": 270
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "69": {
+    "fillColor": "#9370DB",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Mirzapur",
+    "kpi_data": {
+      "kpi1_data": 60584,
+      "kpi2_data": 37122,
+      "kpi3_data": 1168,
+      "kpi4_data": 35954,
+      "kpi5_data": 22403,
+      "kpi6_data": 1059,
+      "kpi7_data": 776
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "70": {
+    "fillColor": "#0be067",
+    "hoverColor": "#d1d1e6",
+    "districtName": "Sonbhadra",
+    "kpi_data": {
+      "kpi1_data": 32432,
+      "kpi2_data": 25691,
+      "kpi3_data": 488,
+      "kpi4_data": 25203,
+      "kpi5_data": 6420,
+      "kpi6_data": 321,
+      "kpi7_data": 175
+    },
+    "cardBackgroundColor": "#d1d1e6"
+  },
+  "71": {
+    "fillColor": "#819268",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Kasganj",
+    "kpi_data": {
+      "kpi1_data": 26633,
+      "kpi2_data": 21159,
+      "kpi3_data": 508,
+      "kpi4_data": 20651,
+      "kpi5_data": 5180,
+      "kpi6_data": 294,
+      "kpi7_data": 211
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "72": {
+    "fillColor": "#b75b1a",
+    "hoverColor": "#d1d1e6",
+    "districtName": "Amethi",
+    "kpi_data": {
+      "kpi1_data": 39117,
+      "kpi2_data": 28372,
+      "kpi3_data": 187,
+      "kpi4_data": 28185,
+      "kpi5_data": 10362,
+      "kpi6_data": 383,
+      "kpi7_data": 276
+    },
+    "cardBackgroundColor": "#d1d1e6"
+  },
+  "73": {
+    "fillColor": "#FA8072",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Hapur",
+    "kpi_data": {
+      "kpi1_data": 15581,
+      "kpi2_data": 11115,
+      "kpi3_data": 259,
+      "kpi4_data": 10856,
+      "kpi5_data": 4389,
+      "kpi6_data": 77,
+      "kpi7_data": 71
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "74": {
+    "fillColor": "#B0E0E6",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Shamli",
+    "kpi_data": {
+      "kpi1_data": 27752,
+      "kpi2_data": 19753,
+      "kpi3_data": 369,
+      "kpi4_data": 19384,
+      "kpi5_data": 7710,
+      "kpi6_data": 289,
+      "kpi7_data": 213
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  },
+  "75": {
+    "fillColor": "#8A2BE2",
+    "hoverColor": "#D1D1E6",
+    "districtName": "Sambhal",
+    "kpi_data": {
+      "kpi1_data": 53290,
+      "kpi2_data": 33631,
+      "kpi3_data": 2139,
+      "kpi4_data": 31492,
+      "kpi5_data": 19241,
+      "kpi6_data": 418,
+      "kpi7_data": 405
+    },
+    "cardBackgroundColor": "#D1D1E6"
+  }
+}
